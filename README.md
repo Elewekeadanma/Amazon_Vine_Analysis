@@ -17,5 +17,5 @@ Looking at the images below, the following can be deduced:
 ![Percentage of 5-star reviews](https://github.com/Elewekeadanma/Amazon_Vine_Analysis/blob/main/pct_of_5-star_reviews.jpg)
 ---
 ##  Summary
-From the results, the number of reviews look to me like a true reflection of what the vine members think of the products that they are reviewing. I don't think there is no positivity bias for the reviews in the program.
-An additional analysis that I would recommend would be finding out the percentage of people who gave 5-star ratings that ended up making purchases. 
+* From the results, the number of reviews look to me like a true reflection of what the vine members think of the products that they are reviewing. I don't think there is no positivity bias for the reviews in the program.
+* An additional analysis that I would recommend would be finding out the percentage of people who gave 5-star ratings that ended up making purchases. 
