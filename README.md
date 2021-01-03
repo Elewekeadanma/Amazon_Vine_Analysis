@@ -10,4 +10,7 @@ As shown in the images below, there were 1266 Vine reviews and 62028 non-Vine re
 There are 432 5-star vine reviews and 29982 5-star non-vine reviews.
 
 ---
-![Non-vine Reviews](https://github.com/Elewekeadanma/Amazon_Vine_Analysis/blob/main/non-Vine_Reviews.jpg)
+![5-star reviews](https://github.com/Elewekeadanma/Amazon_Vine_Analysis/blob/main/five_star_reviews.jpg)
+---
+The percercentage of 5-star reviews was 34.12% and 48.37% for Vine and non_vine reviews respectively.
+![Percentage of 5-star reviews](
