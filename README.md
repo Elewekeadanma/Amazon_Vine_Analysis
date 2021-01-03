@@ -5,7 +5,7 @@ This project uses a dataset to analyze product reviews for a marketing company a
 ---
 As shown in the images below, there were 1266 Vine reviews and 62028 non-Vine reviews.
 
-![Vine Reviews](https://github.com/Elewekeadanma/Amazon_Vine_Analysis/blob/main/Vine_Reviews.jpg)
+![Total Reviews](https://github.com/Elewekeadanma/Amazon_Vine_Analysis/blob/main/Total_reviews.jpg)
 ---
 There are 432 5-star vine reviews and 29982 5-star non-vine reviews.
 
